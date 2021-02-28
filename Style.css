@@ -1,0 +1,137 @@
+*{
+    background-color: #ABD6DFFF;
+    text-justify: auto;
+    text-align:center ;
+    padding: 10px;    
+   
+    
+}
+nav{
+    text-indent: 680;
+    text-align: right ;
+    border: solid black;
+}
+.heading{
+    
+    text-shadow: 4px 5px 4px black;
+}
+.main2{
+    
+    font-size: 85px ;
+    
+    color:#7DB46CFF;
+    text-shadow: 4px 5px 4px black;
+}
+.main1{
+    font-size: 55px;
+    color: #E7EBE0FF;
+    
+}
+.line{
+    color: rgba(34, 34, 34, 0.685);
+    
+    font-size: 30px;
+    font-weight: 90;
+    text-shadow: 1.5 px 1.5px 1.5px black;
+}
+}
+nav{
+    
+}
+.hom
+{   font-size: 40px;
+    color:#E7EBE0FF;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+}
+.hom:hover
+{
+    color: rgba(34, 34, 34, 0.685);
+    text-decoration: underline;
+    text-shadow: none;
+    
+}
+.abo{
+    text-indent: 80px;
+    font-size: 40px;
+    color:#E7EBE0FF;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+    
+}
+.abo:hover
+{
+    color: rgba(34, 34, 34, 0.685);
+    text-decoration: underline;
+    text-shadow: none;
+}
+.gal{
+    text-indent: 80px;
+    font-size: 40px;
+    color:#E7EBE0FF;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+}
+.gal:hover{
+
+    color: rgba(34, 34, 34, 0.685);
+    text-decoration: underline;
+    text-shadow: none;
+
+}
+.ev{
+    text-indent: 80px;
+    font-size: 40px;
+    color:#E7EBE0FF;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+}
+
+.ev:hover{
+    color: rgba(34, 34, 34, 0.685);
+    text-decoration: underline;
+    text-shadow: none;
+
+}
+.con{
+    text-indent: 80px;
+    font-size: 40px;
+    color:#E7EBE0FF;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+
+}
+.con:hover{
+    color: rgba(34, 34, 34, 0.685);
+    text-decoration: underline;
+    text-shadow: none;
+
+}
+.about{
+    font-size: 45px;
+    font-style: italic;
+    font-variant: small-caps;
+}
+.addre{
+    font-size: 20px;
+    
+
+}
+.addre:hover + .addre2{
+    color: #7DB46CFF ;
+   
+}
+.addre2{
+    color: transparent;
+    font-size: 20px;
+}
+.addre2:hover{
+    color: #7DB46CFF;
+}
+
+video:hover{
+    transform: scale(1.2);
+}
+img:hover{
+    transform: scale(1.2);
+}
